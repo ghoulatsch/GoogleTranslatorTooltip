@@ -26,7 +26,7 @@ Firefox\
 Tempermonkey
 
 # Why?
-Currently i (try :P) to learn a new language: russian.\
+Currently i try to learn russian.\
 To dive into i choose to hear russian music on youtube late at night in bed with my phone. (check out https://www.youtube.com/watch?v=WPo3MkMyWBc :)))\
 Exercise reading the kyrilic alphahat in the comments i wanted also to know what the people were talking about.\
 Unfortunatly there was no easy translation tool by hand. Only clunky extra apps.\
@@ -34,8 +34,6 @@ So i started a search in the world wide web if some clever women and men had alr
 YES but NO?! Only for PC???\
 Best not to start from nothing. Thanks to ningfei who forked the translation tooltip so i can fork it. Super greasy!\
 Here we go... i started to learn coding userscripts.\
-\
-PS: I'm still learning russian...\
 \
 LG\
 zelt\
