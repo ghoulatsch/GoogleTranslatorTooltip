@@ -6,7 +6,13 @@ GoogleTranslatorTooltip for mobile phones and tablets - Userscript\
 Fork from https://greasyfork.org/scripts/16204/
 
 # What?
-In browser translation for mobile phone users via userscript.
+In browser translation for mobile phone users via userscript.\
+What is new in the new fork:
+* can be used by mobile phone users (touch)
+* change able icon position/size
+* better translation endpoint
+* added "show definitions" checkbox
+* if translation box is below screen move upwards
 
 # How?
 * install with Tempermonkey
@@ -25,7 +31,7 @@ To dive into i choose to hear russian music on youtube late at night in bed with
 Exercise reading the kyrilic alphahat in the comments i wanted also to know what the people were talking about.\
 Unfortunatly there was no easy translation tool by hand. Only clunky extra apps.\
 So i started a search in the world wide web if some clever women and men had already come up with something for mobile users.\
-YES but NO?!\
+YES but NO?! Only for PC???\
 Best not to start from nothing. Thanks to ningfei who forked the translation tooltip so i can fork it. Super greasy!\
 Here we go... i started to learn coding userscripts.\
 \
@@ -35,5 +41,5 @@ LG\
 zelt\
 ***\
 \
-PPS: See also the PC version of this.
+PPS: See also the PC version of this (https://github.com/ghoulatsch/GoogleTranslatorTooltip-PC).
 
