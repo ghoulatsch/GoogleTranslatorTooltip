@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Google Translator Tooltip - MOBILE
-// @description     Translates selected text into tooltip for mobile. Fork from https://greasyfork.org/scripts/16204/
+// @description     Translates text into tooltip for mobile phone and tablet users. Fork from https://greasyfork.org/scripts/16204/
 // @namespace       https://github.com/ghoulatsch
 // @homepage        https://github.com/ghoulatsch
 // @version         240919
