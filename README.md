@@ -41,7 +41,5 @@ Here we go... i started to learn coding userscripts.\
 \
 LG\
 zelt\
-***\
-\
-PPS: See also the PC version of this (https://github.com/ghoulatsch/GoogleTranslatorTooltip-PC).
+***
 
