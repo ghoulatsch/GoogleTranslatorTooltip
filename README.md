@@ -5,12 +5,16 @@ this is my latest project i want to share with you and my first on github.
 GoogleTranslatorTooltip for mobile phones and tablets - Userscript\
 Fork from https://greasyfork.org/scripts/16204/
 
+# GoogleTranslatorTooltip-PC
+GoogleTranslatorTooltip for PC - Userscript\
+Fork from https://greasyfork.org/scripts/16204/
+
 # What?
-In browser translation for mobile phone users via userscript.\
+In browser translation via userscript.\
 What is new in the new fork:
+* better translation endpoint
 * can be used by mobile phone users (touch)
 * change able icon position/size
-* better translation endpoint
 * added "show definitions" checkbox
 * if translation box is below screen move upwards
 
@@ -21,7 +25,7 @@ What is new in the new fork:
 * if you want to replace the icon or translation box size/position go into the code and check the first rows
 
 # Tested with
-Pixel 4a\
+Pixel 4a / Windows\
 Firefox\
 Tempermonkey
 
