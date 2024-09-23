@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Google Translator Tooltip - PC
-// @description     Translates selected text into tooltip for PC. Fork from https://greasyfork.org/scripts/16204/
+// @description     Translates text into tooltip for PC. Fork from https://greasyfork.org/scripts/16204/
 // @namespace       https://github.com/ghoulatsch
 // @homepage        https://github.com/ghoulatsch
 // @version         240919
